@@ -1,4 +1,4 @@
-# Sales_2019_SDM
+# Sales_2021_SDM
 This repository contains the code and data for "Potential distributions of pre-Columbian people in Tropical Andean landscapes."
 
 This repository contains the code and data used to generate the final ensemble species distribution model (SDM) in "Potential distributions of pre-Columbian people in Tropical Andean landscapes." 
