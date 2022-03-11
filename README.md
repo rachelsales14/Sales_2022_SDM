@@ -1,4 +1,4 @@
-# Sales et al. (in press) Philosophical Transactions of the Royal Society B 
+# Sales et al. 2022 Philosophical Transactions of the Royal Society B 
 This repository contains the code and data for the manuscript "Potential distributions of pre-Columbian people in Tropical Andean landscapes." by Sales, Rachel, Crystal McMichael, Suzette G.A. Flantua, Kimberley Hagemans, Jesse R. Zondervan, Catalina González-Arango, Warren Church, Mark Bush  
 
 This repository contains the code and data used to generate the final ensemble species distribution model (SDM). 
